@@ -1,0 +1,8 @@
+djngo
+cmake
+asgiref
+opencv-python
+numpy
+pillow
+scipy
+setuptools/sci-kit
